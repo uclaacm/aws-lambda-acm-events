@@ -1,4 +1,4 @@
 exports.handler = function (event, context) {
   console.log(event);
-  context.succeed(`Yo what's up: ${event['name']}`);
+  context.succeed(`testing changes ${event['name']}`);
 };
