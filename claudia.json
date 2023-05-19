@@ -1,0 +1,8 @@
+{
+  "lambda": {
+    "role": "claudia-test-executor",
+    "name": "aws-lambda-acm-events",
+    "region": "us-west-1",
+    "sharedRole": true
+  }
+}
